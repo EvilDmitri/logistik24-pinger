@@ -1,0 +1,5 @@
+cron:
+- description: daily-summary-job
+  url: /check
+  schedule: every day 07:00
+
